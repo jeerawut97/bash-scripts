@@ -5,7 +5,7 @@ apt_get_update () {
 }
 
 font_th_setup () {
-    sudo apt install fonts-thai-tlwg;
+    sudo apt install fonts-thai-tlwg
 }
 
 apt_get_update
