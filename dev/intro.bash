@@ -1,7 +1,7 @@
 #!/bin/bash
 
 apt_get_update () {
-    sudo apt-get update; 
+    sudo apt-get update
 }
 
 pyenv_setup () {
